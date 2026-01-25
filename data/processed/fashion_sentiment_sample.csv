@@ -1,5 +1,5 @@
-Comment,Sentiment,Confidence
-Charles Leclerc wearing custom Giorgio Armani in the paddock is pure quiet luxury.,POSITIVE,0.9943
-"The Ferrari red this weekend is absolutely iconic, best paddock style so far!",POSITIVE,0.9998
-"Monaco fashion is getting a bit boring, too much of the same old money look.",NEGATIVE,0.9998
-"Lando Norris's victory kit is a bit loud for my taste, not very chic.",NEGATIVE,0.9985
+Comment,Aesthetic,Sentiment,Confidence
+Charles Leclerc wearing custom Giorgio Armani in the paddock is pure quiet luxury.,Quiet Luxury,POSITIVE,0.9943
+"The Ferrari red this weekend is absolutely iconic, best paddock style so far!",Racing Chic,POSITIVE,0.9998
+"Monaco fashion is getting a bit boring, too much of the same old money look.",Old Money,NEGATIVE,0.9998
+"Lando Norris's victory kit is a bit loud for my taste, not very chic.",Quiet Luxury,NEGATIVE,0.9985
