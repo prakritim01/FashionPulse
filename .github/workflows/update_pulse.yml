@@ -1,0 +1,40 @@
+name: Update FashionPulse Data
+
+# When should this run?
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Every Monday at midnight (after race weekends)
+  workflow_dispatch:   # This allows YOU to run it manually via the GitHub website
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # Use a Linux virtual machine
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3 # Copy your code to the virtual machine
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install torch # Ensuring our AI engine is installed
+
+      - name: Run the Full Pipeline
+        run: |
+          python src/ingestion/f1_ingest.py
+          python src/models/sentiment_analyzer.py
+          python src/models/correlation_engine.py
+          python src/models/dashboard.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "auto: weekly pulse update [automated]" || echo "No changes to commit"
+          git push
