@@ -1,28 +1,32 @@
 name: Update FashionPulse Data
 
-# When should this run?
 on:
   schedule:
-    - cron: '0 0 * * 1' # Every Monday at midnight (after race weekends)
-  workflow_dispatch:   # This allows YOU to run it manually via the GitHub website
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+# --- ADD THIS PERMISSIONS BLOCK ---
+permissions:
+  contents: write  # Allows the bot to commit and push changes
+# ----------------------------------
 
 jobs:
   build:
-    runs-on: ubuntu-latest # Use a Linux virtual machine
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3 # Copy your code to the virtual machine
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.11' # Updated to 3.11 for contourpy compatibility
 
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
-          pip install torch # Ensuring our AI engine is installed
+          pip install torch 
 
       - name: Run the Full Pipeline
         run: |
