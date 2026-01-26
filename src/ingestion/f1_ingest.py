@@ -4,42 +4,55 @@ import os
 
 # Create a cache directory to avoid repeated heavy downloads
 CACHE_DIR = 'data/cache'
-if not os.path.exists(CACHE_DIR):
-    os.makedirs(CACHE_DIR, exist_ok=True)
-
-# Enabling cache is standard practice in F1 data science
+os.makedirs(CACHE_DIR, exist_ok=True)
 fastf1.Cache.enable_cache(CACHE_DIR)
 
-def fetch_race_data(year, gp_name):
-    """
-    Ingests F1 race results for a specific year and Grand Prix.
-    This serves as the foundation for our FashionPulse correlation model.
-    """
-    try:
-        print(f"🏎️  Loading {year} {gp_name} Grand Prix...")
-        session = fastf1.get_session(year, gp_name, 'R')
-        session.load(telemetry=False, weather=False)
-        
-        # We only need the top finishers and team names for sentiment correlation
-        results = session.results[['Abbreviation', 'TeamName', 'FullName', 'ClassifiedPosition']]
-        
-        # Filter for top 10 (Points scorers usually drive the most sentiment)
-        top_10 = results.head(10)
-        
-        print(f"✅ Successfully fetched data for {gp_name}")
-        return top_10
-    except Exception as e:
-        print(f"❌ Failed to fetch data: {e}")
-        return None
+# Defining Phase 2 Race List: High-fashion hubs for 2025
+RACES = [
+    {'year': 2025, 'location': 'Monaco'},
+    {'year': 2025, 'location': 'Miami'},
+    {'year': 2025, 'location': 'Las Vegas'}
+]
 
-if __name__ == "__main__":
-    # Test with the Monaco GP (The high-fashion capital of F1)
-    df = fetch_race_data(2025, 'Monaco')
-    if df is not None:
-        print("\n--- Top 10 Finishers ---")
-        print(df)
+def ingest_multiple_races():
+    """
+    Ingests F1 results for multiple GPs to build a master dataset 
+    for Phase 2 trend velocity analysis.
+    """
+    all_results = []
+    
+    for race in RACES:
+        try:
+            print(f"🏎️  Fetching data for {race['location']} {race['year']}...")
+            session = fastf1.get_session(race['year'], race['location'], 'R')
+            session.load(telemetry=False, weather=False)
+            
+            # Extracting core data for sentiment correlation
+            results = session.results[['Abbreviation', 'TeamName', 'ClassifiedPosition']]
+            
+            # Labeling the data by race location for later grouping
+            results['Race'] = race['location']
+            results['Year'] = race['year']
+            
+            all_results.append(results.head(10)) # Top 10 scorers
+            print(f"✅ Successfully added {race['location']}")
+            
+        except Exception as e:
+            print(f"❌ Failed to fetch {race['location']}: {e}")
+    
+    if all_results:
+        # Create a Master Dataframe combining all races
+        master_df = pd.concat(all_results, ignore_index=True)
         
         # Save to processed data folder
         os.makedirs('data/processed', exist_ok=True)
-        df.to_csv('data/processed/monaco_2025_results.csv', index=False)
-        print("\n💾 Data saved to data/processed/monaco_2025_results.csv")
+        master_df.to_csv('data/processed/master_f1_results.csv', index=False)
+        print(f"\n💾 Phase 2 Master Data saved! Total rows: {len(master_df)}")
+        return master_df
+    return None
+
+if __name__ == "__main__":
+    df = ingest_multiple_races()
+    if df is not None:
+        print("\n--- Phase 2 Master Data Preview ---")
+        print(df.head())
