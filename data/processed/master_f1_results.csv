@@ -1,31 +1,71 @@
-Abbreviation,TeamName,ClassifiedPosition,Race,Year
-NOR,McLaren,1,Monaco,2025
-LEC,Ferrari,2,Monaco,2025
-PIA,McLaren,3,Monaco,2025
-VER,Red Bull Racing,4,Monaco,2025
-HAM,Ferrari,5,Monaco,2025
-HAD,Racing Bulls,6,Monaco,2025
-OCO,Haas F1 Team,7,Monaco,2025
-LAW,Racing Bulls,8,Monaco,2025
-ALB,Williams,9,Monaco,2025
-SAI,Williams,10,Monaco,2025
-PIA,McLaren,1,Miami,2025
-NOR,McLaren,2,Miami,2025
-RUS,Mercedes,3,Miami,2025
-VER,Red Bull Racing,4,Miami,2025
-ALB,Williams,5,Miami,2025
-ANT,Mercedes,6,Miami,2025
-LEC,Ferrari,7,Miami,2025
-HAM,Ferrari,8,Miami,2025
-SAI,Williams,9,Miami,2025
-TSU,Red Bull Racing,10,Miami,2025
-VER,Red Bull Racing,1,Las Vegas,2025
-RUS,Mercedes,2,Las Vegas,2025
-ANT,Mercedes,3,Las Vegas,2025
-LEC,Ferrari,4,Las Vegas,2025
-SAI,Williams,5,Las Vegas,2025
-HAD,Racing Bulls,6,Las Vegas,2025
-HUL,Kick Sauber,7,Las Vegas,2025
-HAM,Ferrari,8,Las Vegas,2025
-OCO,Haas F1 Team,9,Las Vegas,2025
-BEA,Haas F1 Team,10,Las Vegas,2025
+Abbreviation,TeamName,ClassifiedPosition,Race,Market
+PIA,McLaren,1,Shanghai,Asian High-Fashion
+NOR,McLaren,2,Shanghai,Asian High-Fashion
+RUS,Mercedes,3,Shanghai,Asian High-Fashion
+VER,Red Bull Racing,4,Shanghai,Asian High-Fashion
+OCO,Haas F1 Team,5,Shanghai,Asian High-Fashion
+ANT,Mercedes,6,Shanghai,Asian High-Fashion
+ALB,Williams,7,Shanghai,Asian High-Fashion
+BEA,Haas F1 Team,8,Shanghai,Asian High-Fashion
+STR,Aston Martin,9,Shanghai,Asian High-Fashion
+SAI,Williams,10,Shanghai,Asian High-Fashion
+PIA,McLaren,1,Miami,US Streetwear
+NOR,McLaren,2,Miami,US Streetwear
+RUS,Mercedes,3,Miami,US Streetwear
+VER,Red Bull Racing,4,Miami,US Streetwear
+ALB,Williams,5,Miami,US Streetwear
+ANT,Mercedes,6,Miami,US Streetwear
+LEC,Ferrari,7,Miami,US Streetwear
+HAM,Ferrari,8,Miami,US Streetwear
+SAI,Williams,9,Miami,US Streetwear
+TSU,Red Bull Racing,10,Miami,US Streetwear
+NOR,McLaren,1,Monaco,European Luxury
+LEC,Ferrari,2,Monaco,European Luxury
+PIA,McLaren,3,Monaco,European Luxury
+VER,Red Bull Racing,4,Monaco,European Luxury
+HAM,Ferrari,5,Monaco,European Luxury
+HAD,Racing Bulls,6,Monaco,European Luxury
+OCO,Haas F1 Team,7,Monaco,European Luxury
+LAW,Racing Bulls,8,Monaco,European Luxury
+ALB,Williams,9,Monaco,European Luxury
+SAI,Williams,10,Monaco,European Luxury
+NOR,McLaren,1,Silverstone,British Heritage
+PIA,McLaren,2,Silverstone,British Heritage
+HUL,Kick Sauber,3,Silverstone,British Heritage
+HAM,Ferrari,4,Silverstone,British Heritage
+VER,Red Bull Racing,5,Silverstone,British Heritage
+GAS,Alpine,6,Silverstone,British Heritage
+STR,Aston Martin,7,Silverstone,British Heritage
+ALB,Williams,8,Silverstone,British Heritage
+ALO,Aston Martin,9,Silverstone,British Heritage
+RUS,Mercedes,10,Silverstone,British Heritage
+RUS,Mercedes,1,Singapore,Asian Tech-Luxe
+VER,Red Bull Racing,2,Singapore,Asian Tech-Luxe
+NOR,McLaren,3,Singapore,Asian Tech-Luxe
+PIA,McLaren,4,Singapore,Asian Tech-Luxe
+ANT,Mercedes,5,Singapore,Asian Tech-Luxe
+LEC,Ferrari,6,Singapore,Asian Tech-Luxe
+ALO,Aston Martin,7,Singapore,Asian Tech-Luxe
+HAM,Ferrari,8,Singapore,Asian Tech-Luxe
+BEA,Haas F1 Team,9,Singapore,Asian Tech-Luxe
+SAI,Williams,10,Singapore,Asian Tech-Luxe
+VER,Red Bull Racing,1,Las Vegas,Premium Entertainment
+RUS,Mercedes,2,Las Vegas,Premium Entertainment
+ANT,Mercedes,3,Las Vegas,Premium Entertainment
+LEC,Ferrari,4,Las Vegas,Premium Entertainment
+SAI,Williams,5,Las Vegas,Premium Entertainment
+HAD,Racing Bulls,6,Las Vegas,Premium Entertainment
+HUL,Kick Sauber,7,Las Vegas,Premium Entertainment
+HAM,Ferrari,8,Las Vegas,Premium Entertainment
+OCO,Haas F1 Team,9,Las Vegas,Premium Entertainment
+BEA,Haas F1 Team,10,Las Vegas,Premium Entertainment
+VER,Red Bull Racing,1,Abu Dhabi,High-End Exclusive
+PIA,McLaren,2,Abu Dhabi,High-End Exclusive
+NOR,McLaren,3,Abu Dhabi,High-End Exclusive
+LEC,Ferrari,4,Abu Dhabi,High-End Exclusive
+RUS,Mercedes,5,Abu Dhabi,High-End Exclusive
+ALO,Aston Martin,6,Abu Dhabi,High-End Exclusive
+OCO,Haas F1 Team,7,Abu Dhabi,High-End Exclusive
+HAM,Ferrari,8,Abu Dhabi,High-End Exclusive
+HUL,Kick Sauber,9,Abu Dhabi,High-End Exclusive
+STR,Aston Martin,10,Abu Dhabi,High-End Exclusive

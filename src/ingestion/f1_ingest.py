@@ -2,57 +2,46 @@ import fastf1
 import pandas as pd
 import os
 
-# Create a cache directory to avoid repeated heavy downloads
+# Enabling cache for the global dataset
 CACHE_DIR = 'data/cache'
 os.makedirs(CACHE_DIR, exist_ok=True)
 fastf1.Cache.enable_cache(CACHE_DIR)
 
-# Defining Phase 2 Race List: High-fashion hubs for 2025
+# 2025 Global Calendar: Stable data for the Enterprise Hub
 RACES = [
-    {'year': 2025, 'location': 'Monaco'},
-    {'year': 2025, 'location': 'Miami'},
-    {'year': 2025, 'location': 'Las Vegas'}
+    {'year': 2025, 'location': 'Shanghai', 'market': 'Asian High-Fashion'},
+    {'year': 2025, 'location': 'Miami', 'market': 'US Streetwear'},
+    {'year': 2025, 'location': 'Monaco', 'market': 'European Luxury'},
+    {'year': 2025, 'location': 'Silverstone', 'market': 'British Heritage'},
+    {'year': 2025, 'location': 'Singapore', 'market': 'Asian Tech-Luxe'},
+    {'year': 2025, 'location': 'Las Vegas', 'market': 'Premium Entertainment'},
+    {'year': 2025, 'location': 'Abu Dhabi', 'market': 'High-End Exclusive'}
 ]
 
-def ingest_multiple_races():
-    """
-    Ingests F1 results for multiple GPs to build a master dataset 
-    for Phase 2 trend velocity analysis.
-    """
+def ingest_enterprise_season():
     all_results = []
-    
     for race in RACES:
         try:
-            print(f"🏎️  Fetching data for {race['location']} {race['year']}...")
+            print(f"🏎️  Ingesting {race['location']} {race['year']}...")
             session = fastf1.get_session(race['year'], race['location'], 'R')
             session.load(telemetry=False, weather=False)
             
-            # Extracting core data for sentiment correlation
             results = session.results[['Abbreviation', 'TeamName', 'ClassifiedPosition']]
-            
-            # Labeling the data by race location for later grouping
             results['Race'] = race['location']
-            results['Year'] = race['year']
+            results['Market'] = race['market']
             
-            all_results.append(results.head(10)) # Top 10 scorers
-            print(f"✅ Successfully added {race['location']}")
+            all_results.append(results.head(10))
+            print(f"✅ Market Data Added: {race['location']}")
             
         except Exception as e:
-            print(f"❌ Failed to fetch {race['location']}: {e}")
+            print(f"❌ Failed {race['location']}: {e}")
     
     if all_results:
-        # Create a Master Dataframe combining all races
         master_df = pd.concat(all_results, ignore_index=True)
-        
-        # Save to processed data folder
         os.makedirs('data/processed', exist_ok=True)
         master_df.to_csv('data/processed/master_f1_results.csv', index=False)
-        print(f"\n💾 Phase 2 Master Data saved! Total rows: {len(master_df)}")
+        print(f"\n💾 Enterprise Master Data saved! Total rows: {len(master_df)}")
         return master_df
-    return None
 
 if __name__ == "__main__":
-    df = ingest_multiple_races()
-    if df is not None:
-        print("\n--- Phase 2 Master Data Preview ---")
-        print(df.head())
+    ingest_enterprise_season()
