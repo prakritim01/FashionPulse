@@ -1,0 +1,5 @@
+data/cache/
+__pycache__/
+*.sqlite
+*.ff1pkl
+.streamlit/

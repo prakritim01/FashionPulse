@@ -1,0 +1,241 @@
+Abbreviation,TeamName,ClassifiedPosition,Race,Market_Segment,Perf_Weight,Confidence,Influence_ROI
+VER,Red Bull Racing,1,Shanghai,Asian Avant-Garde,1.5,0.8365666666666667,125.48
+NOR,McLaren,2,Shanghai,Asian Avant-Garde,1.5,0.8365666666666667,125.48
+PER,Red Bull Racing,3,Shanghai,Asian Avant-Garde,1.5,0.8365666666666667,125.48
+LEC,Ferrari,4,Shanghai,Asian Avant-Garde,1.0,0.8365666666666667,83.66
+SAI,Ferrari,5,Shanghai,Asian Avant-Garde,1.0,0.8365666666666667,83.66
+RUS,Mercedes,6,Shanghai,Asian Avant-Garde,1.0,0.8365666666666667,83.66
+ALO,Aston Martin,7,Shanghai,Asian Avant-Garde,1.0,0.8365666666666667,83.66
+PIA,McLaren,8,Shanghai,Asian Avant-Garde,1.0,0.8365666666666667,83.66
+HAM,Mercedes,9,Shanghai,Asian Avant-Garde,1.0,0.8365666666666667,83.66
+HUL,Haas F1 Team,10,Shanghai,Asian Avant-Garde,1.0,0.8365666666666667,83.66
+VER,Red Bull Racing,1,Suzuka,Heritage Tech,1.5,0.827,124.05
+PER,Red Bull Racing,2,Suzuka,Heritage Tech,1.5,0.827,124.05
+SAI,Ferrari,3,Suzuka,Heritage Tech,1.5,0.827,124.05
+LEC,Ferrari,4,Suzuka,Heritage Tech,1.0,0.827,82.7
+NOR,McLaren,5,Suzuka,Heritage Tech,1.0,0.827,82.7
+ALO,Aston Martin,6,Suzuka,Heritage Tech,1.0,0.827,82.7
+RUS,Mercedes,7,Suzuka,Heritage Tech,1.0,0.827,82.7
+PIA,McLaren,8,Suzuka,Heritage Tech,1.0,0.827,82.7
+HAM,Mercedes,9,Suzuka,Heritage Tech,1.0,0.827,82.7
+TSU,RB,10,Suzuka,Heritage Tech,1.0,0.827,82.7
+VER,Red Bull Racing,1,Sakhir,Middle-Eastern Opulence,1.5,0.8028666666666666,120.43
+PER,Red Bull Racing,2,Sakhir,Middle-Eastern Opulence,1.5,0.8028666666666666,120.43
+SAI,Ferrari,3,Sakhir,Middle-Eastern Opulence,1.5,0.8028666666666666,120.43
+LEC,Ferrari,4,Sakhir,Middle-Eastern Opulence,1.0,0.8028666666666666,80.29
+RUS,Mercedes,5,Sakhir,Middle-Eastern Opulence,1.0,0.8028666666666666,80.29
+NOR,McLaren,6,Sakhir,Middle-Eastern Opulence,1.0,0.8028666666666666,80.29
+HAM,Mercedes,7,Sakhir,Middle-Eastern Opulence,1.0,0.8028666666666666,80.29
+PIA,McLaren,8,Sakhir,Middle-Eastern Opulence,1.0,0.8028666666666666,80.29
+ALO,Aston Martin,9,Sakhir,Middle-Eastern Opulence,1.0,0.8028666666666666,80.29
+STR,Aston Martin,10,Sakhir,Middle-Eastern Opulence,1.0,0.8028666666666666,80.29
+VER,Red Bull Racing,1,Jeddah,Modern Desert Luxury,1.5,0.8090999999999999,121.36
+PER,Red Bull Racing,2,Jeddah,Modern Desert Luxury,1.5,0.8090999999999999,121.36
+LEC,Ferrari,3,Jeddah,Modern Desert Luxury,1.5,0.8090999999999999,121.36
+PIA,McLaren,4,Jeddah,Modern Desert Luxury,1.0,0.8090999999999999,80.91
+ALO,Aston Martin,5,Jeddah,Modern Desert Luxury,1.0,0.8090999999999999,80.91
+RUS,Mercedes,6,Jeddah,Modern Desert Luxury,1.0,0.8090999999999999,80.91
+BEA,Ferrari,7,Jeddah,Modern Desert Luxury,1.0,0.8090999999999999,80.91
+NOR,McLaren,8,Jeddah,Modern Desert Luxury,1.0,0.8090999999999999,80.91
+HAM,Mercedes,9,Jeddah,Modern Desert Luxury,1.0,0.8090999999999999,80.91
+HUL,Haas F1 Team,10,Jeddah,Modern Desert Luxury,1.0,0.8090999999999999,80.91
+NOR,McLaren,1,Singapore,Modern Urban Luxury,1.5,0.7762333333333333,116.44
+VER,Red Bull Racing,2,Singapore,Modern Urban Luxury,1.5,0.7762333333333333,116.44
+PIA,McLaren,3,Singapore,Modern Urban Luxury,1.5,0.7762333333333333,116.44
+RUS,Mercedes,4,Singapore,Modern Urban Luxury,1.0,0.7762333333333333,77.62
+LEC,Ferrari,5,Singapore,Modern Urban Luxury,1.0,0.7762333333333333,77.62
+HAM,Mercedes,6,Singapore,Modern Urban Luxury,1.0,0.7762333333333333,77.62
+SAI,Ferrari,7,Singapore,Modern Urban Luxury,1.0,0.7762333333333333,77.62
+ALO,Aston Martin,8,Singapore,Modern Urban Luxury,1.0,0.7762333333333333,77.62
+HUL,Haas F1 Team,9,Singapore,Modern Urban Luxury,1.0,0.7762333333333333,77.62
+PER,Red Bull Racing,10,Singapore,Modern Urban Luxury,1.0,0.7762333333333333,77.62
+PIA,McLaren,1,Baku,Caspian Chic,1.5,0.7207666666666667,108.12
+LEC,Ferrari,2,Baku,Caspian Chic,1.5,0.7207666666666667,108.12
+RUS,Mercedes,3,Baku,Caspian Chic,1.5,0.7207666666666667,108.12
+NOR,McLaren,4,Baku,Caspian Chic,1.0,0.7207666666666667,72.08
+VER,Red Bull Racing,5,Baku,Caspian Chic,1.0,0.7207666666666667,72.08
+ALO,Aston Martin,6,Baku,Caspian Chic,1.0,0.7207666666666667,72.08
+ALB,Williams,7,Baku,Caspian Chic,1.0,0.7207666666666667,72.08
+COL,Williams,8,Baku,Caspian Chic,1.0,0.7207666666666667,72.08
+HAM,Mercedes,9,Baku,Caspian Chic,1.0,0.7207666666666667,72.08
+BEA,Haas F1 Team,10,Baku,Caspian Chic,1.0,0.7207666666666667,72.08
+VER,Red Bull Racing,1,Lusail,Futuristic Elite,1.5,0.9308666666666666,139.63
+LEC,Ferrari,2,Lusail,Futuristic Elite,1.5,0.9308666666666666,139.63
+PIA,McLaren,3,Lusail,Futuristic Elite,1.5,0.9308666666666666,139.63
+RUS,Mercedes,4,Lusail,Futuristic Elite,1.0,0.9308666666666666,93.09
+GAS,Alpine,5,Lusail,Futuristic Elite,1.0,0.9308666666666666,93.09
+SAI,Ferrari,6,Lusail,Futuristic Elite,1.0,0.9308666666666666,93.09
+ALO,Aston Martin,7,Lusail,Futuristic Elite,1.0,0.9308666666666666,93.09
+ZHO,Kick Sauber,8,Lusail,Futuristic Elite,1.0,0.9308666666666666,93.09
+MAG,Haas F1 Team,9,Lusail,Futuristic Elite,1.0,0.9308666666666666,93.09
+NOR,McLaren,10,Lusail,Futuristic Elite,1.0,0.9308666666666666,93.09
+NOR,McLaren,1,Yas Marina,Oasis Glamour,1.5,0.7307333333333333,109.61
+VER,Red Bull Racing,2,Yas Marina,Oasis Glamour,1.5,0.7307333333333333,109.61
+PIA,McLaren,3,Yas Marina,Oasis Glamour,1.5,0.7307333333333333,109.61
+RUS,Mercedes,4,Yas Marina,Oasis Glamour,1.0,0.7307333333333333,73.07
+LEC,Ferrari,5,Yas Marina,Oasis Glamour,1.0,0.7307333333333333,73.07
+HAM,Mercedes,6,Yas Marina,Oasis Glamour,1.0,0.7307333333333333,73.07
+SAI,Ferrari,7,Yas Marina,Oasis Glamour,1.0,0.7307333333333333,73.07
+ALO,Aston Martin,8,Yas Marina,Oasis Glamour,1.0,0.7307333333333333,73.07
+HUL,Haas F1 Team,9,Yas Marina,Oasis Glamour,1.0,0.7307333333333333,73.07
+PER,Red Bull Racing,10,Yas Marina,Oasis Glamour,1.0,0.7307333333333333,73.07
+LEC,Ferrari,1,Monaco,Ultra-Luxury,1.5,0.8179,122.68
+PIA,McLaren,2,Monaco,Ultra-Luxury,1.5,0.8179,122.68
+SAI,Ferrari,3,Monaco,Ultra-Luxury,1.5,0.8179,122.68
+NOR,McLaren,4,Monaco,Ultra-Luxury,1.0,0.8179,81.79
+RUS,Mercedes,5,Monaco,Ultra-Luxury,1.0,0.8179,81.79
+VER,Red Bull Racing,6,Monaco,Ultra-Luxury,1.0,0.8179,81.79
+HAM,Mercedes,7,Monaco,Ultra-Luxury,1.0,0.8179,81.79
+TSU,RB,8,Monaco,Ultra-Luxury,1.0,0.8179,81.79
+ALB,Williams,9,Monaco,Ultra-Luxury,1.0,0.8179,81.79
+GAS,Alpine,10,Monaco,Ultra-Luxury,1.0,0.8179,81.79
+VER,Red Bull Racing,1,Barcelona,Mediterranean Style,1.5,0.8076333333333333,121.14
+NOR,McLaren,2,Barcelona,Mediterranean Style,1.5,0.8076333333333333,121.14
+HAM,Mercedes,3,Barcelona,Mediterranean Style,1.5,0.8076333333333333,121.14
+RUS,Mercedes,4,Barcelona,Mediterranean Style,1.0,0.8076333333333333,80.76
+LEC,Ferrari,5,Barcelona,Mediterranean Style,1.0,0.8076333333333333,80.76
+SAI,Ferrari,6,Barcelona,Mediterranean Style,1.0,0.8076333333333333,80.76
+PIA,McLaren,7,Barcelona,Mediterranean Style,1.0,0.8076333333333333,80.76
+PER,Red Bull Racing,8,Barcelona,Mediterranean Style,1.0,0.8076333333333333,80.76
+GAS,Alpine,9,Barcelona,Mediterranean Style,1.0,0.8076333333333333,80.76
+OCO,Alpine,10,Barcelona,Mediterranean Style,1.0,0.8076333333333333,80.76
+RUS,Mercedes,1,Spielberg,Alpine Premium,1.5,0.7333333333333334,110.0
+PIA,McLaren,2,Spielberg,Alpine Premium,1.5,0.7333333333333334,110.0
+SAI,Ferrari,3,Spielberg,Alpine Premium,1.5,0.7333333333333334,110.0
+HAM,Mercedes,4,Spielberg,Alpine Premium,1.0,0.7333333333333334,73.33
+VER,Red Bull Racing,5,Spielberg,Alpine Premium,1.0,0.7333333333333334,73.33
+HUL,Haas F1 Team,6,Spielberg,Alpine Premium,1.0,0.7333333333333334,73.33
+PER,Red Bull Racing,7,Spielberg,Alpine Premium,1.0,0.7333333333333334,73.33
+MAG,Haas F1 Team,8,Spielberg,Alpine Premium,1.0,0.7333333333333334,73.33
+RIC,RB,9,Spielberg,Alpine Premium,1.0,0.7333333333333334,73.33
+GAS,Alpine,10,Spielberg,Alpine Premium,1.0,0.7333333333333334,73.33
+HAM,Mercedes,1,Silverstone,British Racing Green,1.5,0.7736333333333333,116.04
+VER,Red Bull Racing,2,Silverstone,British Racing Green,1.5,0.7736333333333333,116.04
+NOR,McLaren,3,Silverstone,British Racing Green,1.5,0.7736333333333333,116.04
+PIA,McLaren,4,Silverstone,British Racing Green,1.0,0.7736333333333333,77.36
+SAI,Ferrari,5,Silverstone,British Racing Green,1.0,0.7736333333333333,77.36
+HUL,Haas F1 Team,6,Silverstone,British Racing Green,1.0,0.7736333333333333,77.36
+STR,Aston Martin,7,Silverstone,British Racing Green,1.0,0.7736333333333333,77.36
+ALO,Aston Martin,8,Silverstone,British Racing Green,1.0,0.7736333333333333,77.36
+ALB,Williams,9,Silverstone,British Racing Green,1.0,0.7736333333333333,77.36
+TSU,RB,10,Silverstone,British Racing Green,1.0,0.7736333333333333,77.36
+VER,Red Bull Racing,1,Spa,Forest Heritage,1.5,0.8748333333333335,131.23
+NOR,McLaren,2,Spa,Forest Heritage,1.5,0.8748333333333335,131.23
+HAM,Mercedes,3,Spa,Forest Heritage,1.5,0.8748333333333335,131.23
+RUS,Mercedes,4,Spa,Forest Heritage,1.0,0.8748333333333335,87.48
+LEC,Ferrari,5,Spa,Forest Heritage,1.0,0.8748333333333335,87.48
+SAI,Ferrari,6,Spa,Forest Heritage,1.0,0.8748333333333335,87.48
+PIA,McLaren,7,Spa,Forest Heritage,1.0,0.8748333333333335,87.48
+PER,Red Bull Racing,8,Spa,Forest Heritage,1.0,0.8748333333333335,87.48
+GAS,Alpine,9,Spa,Forest Heritage,1.0,0.8748333333333335,87.48
+OCO,Alpine,10,Spa,Forest Heritage,1.0,0.8748333333333335,87.48
+PIA,McLaren,1,Budapest,Danube Elegance,1.5,0.8158333333333333,122.37
+NOR,McLaren,2,Budapest,Danube Elegance,1.5,0.8158333333333333,122.37
+HAM,Mercedes,3,Budapest,Danube Elegance,1.5,0.8158333333333333,122.37
+LEC,Ferrari,4,Budapest,Danube Elegance,1.0,0.8158333333333333,81.58
+VER,Red Bull Racing,5,Budapest,Danube Elegance,1.0,0.8158333333333333,81.58
+SAI,Ferrari,6,Budapest,Danube Elegance,1.0,0.8158333333333333,81.58
+PER,Red Bull Racing,7,Budapest,Danube Elegance,1.0,0.8158333333333333,81.58
+RUS,Mercedes,8,Budapest,Danube Elegance,1.0,0.8158333333333333,81.58
+TSU,RB,9,Budapest,Danube Elegance,1.0,0.8158333333333333,81.58
+STR,Aston Martin,10,Budapest,Danube Elegance,1.0,0.8158333333333333,81.58
+NOR,McLaren,1,Zandvoort,Coastal Casual,1.5,0.7219333333333333,108.29
+VER,Red Bull Racing,2,Zandvoort,Coastal Casual,1.5,0.7219333333333333,108.29
+LEC,Ferrari,3,Zandvoort,Coastal Casual,1.5,0.7219333333333333,108.29
+PIA,McLaren,4,Zandvoort,Coastal Casual,1.0,0.7219333333333333,72.19
+SAI,Ferrari,5,Zandvoort,Coastal Casual,1.0,0.7219333333333333,72.19
+PER,Red Bull Racing,6,Zandvoort,Coastal Casual,1.0,0.7219333333333333,72.19
+RUS,Mercedes,7,Zandvoort,Coastal Casual,1.0,0.7219333333333333,72.19
+HAM,Mercedes,8,Zandvoort,Coastal Casual,1.0,0.7219333333333333,72.19
+GAS,Alpine,9,Zandvoort,Coastal Casual,1.0,0.7219333333333333,72.19
+ALO,Aston Martin,10,Zandvoort,Coastal Casual,1.0,0.7219333333333333,72.19
+LEC,Ferrari,1,Monza,European Heritage,1.5,0.8201999999999999,123.03
+PIA,McLaren,2,Monza,European Heritage,1.5,0.8201999999999999,123.03
+NOR,McLaren,3,Monza,European Heritage,1.5,0.8201999999999999,123.03
+SAI,Ferrari,4,Monza,European Heritage,1.0,0.8201999999999999,82.02
+HAM,Mercedes,5,Monza,European Heritage,1.0,0.8201999999999999,82.02
+VER,Red Bull Racing,6,Monza,European Heritage,1.0,0.8201999999999999,82.02
+RUS,Mercedes,7,Monza,European Heritage,1.0,0.8201999999999999,82.02
+PER,Red Bull Racing,8,Monza,European Heritage,1.0,0.8201999999999999,82.02
+ALB,Williams,9,Monza,European Heritage,1.0,0.8201999999999999,82.02
+MAG,Haas F1 Team,10,Monza,European Heritage,1.0,0.8201999999999999,82.02
+VER,Red Bull Racing,1,Imola,Motor Valley Luxury,1.5,0.7660333333333332,114.9
+NOR,McLaren,2,Imola,Motor Valley Luxury,1.5,0.7660333333333332,114.9
+LEC,Ferrari,3,Imola,Motor Valley Luxury,1.5,0.7660333333333332,114.9
+PIA,McLaren,4,Imola,Motor Valley Luxury,1.0,0.7660333333333332,76.6
+SAI,Ferrari,5,Imola,Motor Valley Luxury,1.0,0.7660333333333332,76.6
+HAM,Mercedes,6,Imola,Motor Valley Luxury,1.0,0.7660333333333332,76.6
+RUS,Mercedes,7,Imola,Motor Valley Luxury,1.0,0.7660333333333332,76.6
+PER,Red Bull Racing,8,Imola,Motor Valley Luxury,1.0,0.7660333333333332,76.6
+STR,Aston Martin,9,Imola,Motor Valley Luxury,1.0,0.7660333333333332,76.6
+TSU,RB,10,Imola,Motor Valley Luxury,1.0,0.7660333333333332,76.6
+NOR,McLaren,1,Miami,High-End Streetwear,1.5,0.7866,117.99
+VER,Red Bull Racing,2,Miami,High-End Streetwear,1.5,0.7866,117.99
+LEC,Ferrari,3,Miami,High-End Streetwear,1.5,0.7866,117.99
+PER,Red Bull Racing,4,Miami,High-End Streetwear,1.0,0.7866,78.66
+SAI,Ferrari,5,Miami,High-End Streetwear,1.0,0.7866,78.66
+HAM,Mercedes,6,Miami,High-End Streetwear,1.0,0.7866,78.66
+TSU,RB,7,Miami,High-End Streetwear,1.0,0.7866,78.66
+RUS,Mercedes,8,Miami,High-End Streetwear,1.0,0.7866,78.66
+ALO,Aston Martin,9,Miami,High-End Streetwear,1.0,0.7866,78.66
+OCO,Alpine,10,Miami,High-End Streetwear,1.0,0.7866,78.66
+VER,Red Bull Racing,1,Montreal,Francophone Chic,1.5,0.7604000000000001,114.06
+NOR,McLaren,2,Montreal,Francophone Chic,1.5,0.7604000000000001,114.06
+RUS,Mercedes,3,Montreal,Francophone Chic,1.5,0.7604000000000001,114.06
+HAM,Mercedes,4,Montreal,Francophone Chic,1.0,0.7604000000000001,76.04
+PIA,McLaren,5,Montreal,Francophone Chic,1.0,0.7604000000000001,76.04
+ALO,Aston Martin,6,Montreal,Francophone Chic,1.0,0.7604000000000001,76.04
+STR,Aston Martin,7,Montreal,Francophone Chic,1.0,0.7604000000000001,76.04
+RIC,RB,8,Montreal,Francophone Chic,1.0,0.7604000000000001,76.04
+GAS,Alpine,9,Montreal,Francophone Chic,1.0,0.7604000000000001,76.04
+OCO,Alpine,10,Montreal,Francophone Chic,1.0,0.7604000000000001,76.04
+LEC,Ferrari,1,Austin,Western Premium,1.5,0.805,120.75
+SAI,Ferrari,2,Austin,Western Premium,1.5,0.805,120.75
+VER,Red Bull Racing,3,Austin,Western Premium,1.5,0.805,120.75
+NOR,McLaren,4,Austin,Western Premium,1.0,0.805,80.5
+PIA,McLaren,5,Austin,Western Premium,1.0,0.805,80.5
+RUS,Mercedes,6,Austin,Western Premium,1.0,0.805,80.5
+PER,Red Bull Racing,7,Austin,Western Premium,1.0,0.805,80.5
+HUL,Haas F1 Team,8,Austin,Western Premium,1.0,0.805,80.5
+LAW,RB,9,Austin,Western Premium,1.0,0.805,80.5
+COL,Williams,10,Austin,Western Premium,1.0,0.805,80.5
+SAI,Ferrari,1,Mexico City,Latam Vibrancy,1.5,0.8695666666666666,130.44
+NOR,McLaren,2,Mexico City,Latam Vibrancy,1.5,0.8695666666666666,130.44
+LEC,Ferrari,3,Mexico City,Latam Vibrancy,1.5,0.8695666666666666,130.44
+HAM,Mercedes,4,Mexico City,Latam Vibrancy,1.0,0.8695666666666666,86.96
+RUS,Mercedes,5,Mexico City,Latam Vibrancy,1.0,0.8695666666666666,86.96
+VER,Red Bull Racing,6,Mexico City,Latam Vibrancy,1.0,0.8695666666666666,86.96
+MAG,Haas F1 Team,7,Mexico City,Latam Vibrancy,1.0,0.8695666666666666,86.96
+PIA,McLaren,8,Mexico City,Latam Vibrancy,1.0,0.8695666666666666,86.96
+HUL,Haas F1 Team,9,Mexico City,Latam Vibrancy,1.0,0.8695666666666666,86.96
+GAS,Alpine,10,Mexico City,Latam Vibrancy,1.0,0.8695666666666666,86.96
+NOR,McLaren,1,Interlagos,Samba Luxury,1.5,0.8468666666666667,127.03
+VER,Red Bull Racing,2,Interlagos,Samba Luxury,1.5,0.8468666666666667,127.03
+LEC,Ferrari,3,Interlagos,Samba Luxury,1.5,0.8468666666666667,127.03
+PIA,McLaren,4,Interlagos,Samba Luxury,1.0,0.8468666666666667,84.69
+SAI,Ferrari,5,Interlagos,Samba Luxury,1.0,0.8468666666666667,84.69
+PER,Red Bull Racing,6,Interlagos,Samba Luxury,1.0,0.8468666666666667,84.69
+RUS,Mercedes,7,Interlagos,Samba Luxury,1.0,0.8468666666666667,84.69
+HAM,Mercedes,8,Interlagos,Samba Luxury,1.0,0.8468666666666667,84.69
+GAS,Alpine,9,Interlagos,Samba Luxury,1.0,0.8468666666666667,84.69
+ALO,Aston Martin,10,Interlagos,Samba Luxury,1.0,0.8468666666666667,84.69
+RUS,Mercedes,1,Las Vegas,Premium Entertainment,1.5,0.8008000000000001,120.12
+HAM,Mercedes,2,Las Vegas,Premium Entertainment,1.5,0.8008000000000001,120.12
+SAI,Ferrari,3,Las Vegas,Premium Entertainment,1.5,0.8008000000000001,120.12
+LEC,Ferrari,4,Las Vegas,Premium Entertainment,1.0,0.8008000000000001,80.08
+VER,Red Bull Racing,5,Las Vegas,Premium Entertainment,1.0,0.8008000000000001,80.08
+NOR,McLaren,6,Las Vegas,Premium Entertainment,1.0,0.8008000000000001,80.08
+PIA,McLaren,7,Las Vegas,Premium Entertainment,1.0,0.8008000000000001,80.08
+HUL,Haas F1 Team,8,Las Vegas,Premium Entertainment,1.0,0.8008000000000001,80.08
+TSU,RB,9,Las Vegas,Premium Entertainment,1.0,0.8008000000000001,80.08
+PER,Red Bull Racing,10,Las Vegas,Premium Entertainment,1.0,0.8008000000000001,80.08
+SAI,Ferrari,1,Melbourne,Pacific Lifestyle,1.5,0.8925000000000001,133.88
+LEC,Ferrari,2,Melbourne,Pacific Lifestyle,1.5,0.8925000000000001,133.88
+NOR,McLaren,3,Melbourne,Pacific Lifestyle,1.5,0.8925000000000001,133.88
+PIA,McLaren,4,Melbourne,Pacific Lifestyle,1.0,0.8925000000000001,89.25
+PER,Red Bull Racing,5,Melbourne,Pacific Lifestyle,1.0,0.8925000000000001,89.25
+STR,Aston Martin,6,Melbourne,Pacific Lifestyle,1.0,0.8925000000000001,89.25
+TSU,RB,7,Melbourne,Pacific Lifestyle,1.0,0.8925000000000001,89.25
+ALO,Aston Martin,8,Melbourne,Pacific Lifestyle,1.0,0.8925000000000001,89.25
+HUL,Haas F1 Team,9,Melbourne,Pacific Lifestyle,1.0,0.8925000000000001,89.25
+MAG,Haas F1 Team,10,Melbourne,Pacific Lifestyle,1.0,0.8925000000000001,89.25

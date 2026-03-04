@@ -1,0 +1,73 @@
+Race,Market_Segment,Aesthetic,Confidence
+Shanghai,Asian Avant-Garde,Quiet Luxury,0.8454
+Shanghai,Asian Avant-Garde,Racing Core,0.8719
+Shanghai,Asian Avant-Garde,Old Money,0.7924
+Suzuka,Heritage Tech,Quiet Luxury,0.7043
+Suzuka,Heritage Tech,Racing Core,0.8526
+Suzuka,Heritage Tech,Old Money,0.9241
+Sakhir,Middle-Eastern Opulence,Quiet Luxury,0.7665
+Sakhir,Middle-Eastern Opulence,Racing Core,0.8337
+Sakhir,Middle-Eastern Opulence,Old Money,0.8084
+Jeddah,Modern Desert Luxury,Quiet Luxury,0.7304
+Jeddah,Modern Desert Luxury,Racing Core,0.9818
+Jeddah,Modern Desert Luxury,Old Money,0.7151
+Singapore,Modern Urban Luxury,Quiet Luxury,0.7139
+Singapore,Modern Urban Luxury,Racing Core,0.8048
+Singapore,Modern Urban Luxury,Old Money,0.81
+Baku,Caspian Chic,Quiet Luxury,0.7391
+Baku,Caspian Chic,Racing Core,0.6892
+Baku,Caspian Chic,Old Money,0.734
+Lusail,Futuristic Elite,Quiet Luxury,0.938
+Lusail,Futuristic Elite,Racing Core,0.8926
+Lusail,Futuristic Elite,Old Money,0.962
+Yas Marina,Oasis Glamour,Quiet Luxury,0.7822
+Yas Marina,Oasis Glamour,Racing Core,0.7335
+Yas Marina,Oasis Glamour,Old Money,0.6765
+Monaco,Ultra-Luxury,Quiet Luxury,0.7133
+Monaco,Ultra-Luxury,Racing Core,0.7722
+Monaco,Ultra-Luxury,Old Money,0.9682
+Barcelona,Mediterranean Style,Quiet Luxury,0.8809
+Barcelona,Mediterranean Style,Racing Core,0.833
+Barcelona,Mediterranean Style,Old Money,0.709
+Spielberg,Alpine Premium,Quiet Luxury,0.82
+Spielberg,Alpine Premium,Racing Core,0.6922
+Spielberg,Alpine Premium,Old Money,0.6878
+Silverstone,British Racing Green,Quiet Luxury,0.8543
+Silverstone,British Racing Green,Racing Core,0.6689
+Silverstone,British Racing Green,Old Money,0.7977
+Spa,Forest Heritage,Quiet Luxury,0.9859
+Spa,Forest Heritage,Racing Core,0.9424
+Spa,Forest Heritage,Old Money,0.6962
+Budapest,Danube Elegance,Quiet Luxury,0.7358
+Budapest,Danube Elegance,Racing Core,0.8762
+Budapest,Danube Elegance,Old Money,0.8355
+Zandvoort,Coastal Casual,Quiet Luxury,0.6932
+Zandvoort,Coastal Casual,Racing Core,0.7954
+Zandvoort,Coastal Casual,Old Money,0.6772
+Monza,European Heritage,Quiet Luxury,0.83
+Monza,European Heritage,Racing Core,0.7035
+Monza,European Heritage,Old Money,0.9271
+Imola,Motor Valley Luxury,Quiet Luxury,0.6763
+Imola,Motor Valley Luxury,Racing Core,0.7795
+Imola,Motor Valley Luxury,Old Money,0.8423
+Miami,High-End Streetwear,Quiet Luxury,0.7222
+Miami,High-End Streetwear,Racing Core,0.9123
+Miami,High-End Streetwear,Old Money,0.7253
+Montreal,Francophone Chic,Quiet Luxury,0.7072
+Montreal,Francophone Chic,Racing Core,0.679
+Montreal,Francophone Chic,Old Money,0.895
+Austin,Western Premium,Quiet Luxury,0.6644
+Austin,Western Premium,Racing Core,0.9452
+Austin,Western Premium,Old Money,0.8054
+Mexico City,Latam Vibrancy,Quiet Luxury,0.9033
+Mexico City,Latam Vibrancy,Racing Core,0.8063
+Mexico City,Latam Vibrancy,Old Money,0.8991
+Interlagos,Samba Luxury,Quiet Luxury,0.9583
+Interlagos,Samba Luxury,Racing Core,0.7751
+Interlagos,Samba Luxury,Old Money,0.8072
+Las Vegas,Premium Entertainment,Quiet Luxury,0.9284
+Las Vegas,Premium Entertainment,Racing Core,0.7247
+Las Vegas,Premium Entertainment,Old Money,0.7493
+Melbourne,Pacific Lifestyle,Quiet Luxury,0.9781
+Melbourne,Pacific Lifestyle,Racing Core,0.9088
+Melbourne,Pacific Lifestyle,Old Money,0.7906

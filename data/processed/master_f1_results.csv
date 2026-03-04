@@ -1,0 +1,241 @@
+Abbreviation,TeamName,ClassifiedPosition,Race,Market_Segment
+VER,Red Bull Racing,1,Shanghai,Asian Avant-Garde
+NOR,McLaren,2,Shanghai,Asian Avant-Garde
+PER,Red Bull Racing,3,Shanghai,Asian Avant-Garde
+LEC,Ferrari,4,Shanghai,Asian Avant-Garde
+SAI,Ferrari,5,Shanghai,Asian Avant-Garde
+RUS,Mercedes,6,Shanghai,Asian Avant-Garde
+ALO,Aston Martin,7,Shanghai,Asian Avant-Garde
+PIA,McLaren,8,Shanghai,Asian Avant-Garde
+HAM,Mercedes,9,Shanghai,Asian Avant-Garde
+HUL,Haas F1 Team,10,Shanghai,Asian Avant-Garde
+VER,Red Bull Racing,1,Suzuka,Heritage Tech
+PER,Red Bull Racing,2,Suzuka,Heritage Tech
+SAI,Ferrari,3,Suzuka,Heritage Tech
+LEC,Ferrari,4,Suzuka,Heritage Tech
+NOR,McLaren,5,Suzuka,Heritage Tech
+ALO,Aston Martin,6,Suzuka,Heritage Tech
+RUS,Mercedes,7,Suzuka,Heritage Tech
+PIA,McLaren,8,Suzuka,Heritage Tech
+HAM,Mercedes,9,Suzuka,Heritage Tech
+TSU,RB,10,Suzuka,Heritage Tech
+VER,Red Bull Racing,1,Sakhir,Middle-Eastern Opulence
+PER,Red Bull Racing,2,Sakhir,Middle-Eastern Opulence
+SAI,Ferrari,3,Sakhir,Middle-Eastern Opulence
+LEC,Ferrari,4,Sakhir,Middle-Eastern Opulence
+RUS,Mercedes,5,Sakhir,Middle-Eastern Opulence
+NOR,McLaren,6,Sakhir,Middle-Eastern Opulence
+HAM,Mercedes,7,Sakhir,Middle-Eastern Opulence
+PIA,McLaren,8,Sakhir,Middle-Eastern Opulence
+ALO,Aston Martin,9,Sakhir,Middle-Eastern Opulence
+STR,Aston Martin,10,Sakhir,Middle-Eastern Opulence
+VER,Red Bull Racing,1,Jeddah,Modern Desert Luxury
+PER,Red Bull Racing,2,Jeddah,Modern Desert Luxury
+LEC,Ferrari,3,Jeddah,Modern Desert Luxury
+PIA,McLaren,4,Jeddah,Modern Desert Luxury
+ALO,Aston Martin,5,Jeddah,Modern Desert Luxury
+RUS,Mercedes,6,Jeddah,Modern Desert Luxury
+BEA,Ferrari,7,Jeddah,Modern Desert Luxury
+NOR,McLaren,8,Jeddah,Modern Desert Luxury
+HAM,Mercedes,9,Jeddah,Modern Desert Luxury
+HUL,Haas F1 Team,10,Jeddah,Modern Desert Luxury
+NOR,McLaren,1,Singapore,Modern Urban Luxury
+VER,Red Bull Racing,2,Singapore,Modern Urban Luxury
+PIA,McLaren,3,Singapore,Modern Urban Luxury
+RUS,Mercedes,4,Singapore,Modern Urban Luxury
+LEC,Ferrari,5,Singapore,Modern Urban Luxury
+HAM,Mercedes,6,Singapore,Modern Urban Luxury
+SAI,Ferrari,7,Singapore,Modern Urban Luxury
+ALO,Aston Martin,8,Singapore,Modern Urban Luxury
+HUL,Haas F1 Team,9,Singapore,Modern Urban Luxury
+PER,Red Bull Racing,10,Singapore,Modern Urban Luxury
+PIA,McLaren,1,Baku,Caspian Chic
+LEC,Ferrari,2,Baku,Caspian Chic
+RUS,Mercedes,3,Baku,Caspian Chic
+NOR,McLaren,4,Baku,Caspian Chic
+VER,Red Bull Racing,5,Baku,Caspian Chic
+ALO,Aston Martin,6,Baku,Caspian Chic
+ALB,Williams,7,Baku,Caspian Chic
+COL,Williams,8,Baku,Caspian Chic
+HAM,Mercedes,9,Baku,Caspian Chic
+BEA,Haas F1 Team,10,Baku,Caspian Chic
+VER,Red Bull Racing,1,Lusail,Futuristic Elite
+LEC,Ferrari,2,Lusail,Futuristic Elite
+PIA,McLaren,3,Lusail,Futuristic Elite
+RUS,Mercedes,4,Lusail,Futuristic Elite
+GAS,Alpine,5,Lusail,Futuristic Elite
+SAI,Ferrari,6,Lusail,Futuristic Elite
+ALO,Aston Martin,7,Lusail,Futuristic Elite
+ZHO,Kick Sauber,8,Lusail,Futuristic Elite
+MAG,Haas F1 Team,9,Lusail,Futuristic Elite
+NOR,McLaren,10,Lusail,Futuristic Elite
+NOR,McLaren,1,Yas Marina,Oasis Glamour
+VER,Red Bull Racing,2,Yas Marina,Oasis Glamour
+PIA,McLaren,3,Yas Marina,Oasis Glamour
+RUS,Mercedes,4,Yas Marina,Oasis Glamour
+LEC,Ferrari,5,Yas Marina,Oasis Glamour
+HAM,Mercedes,6,Yas Marina,Oasis Glamour
+SAI,Ferrari,7,Yas Marina,Oasis Glamour
+ALO,Aston Martin,8,Yas Marina,Oasis Glamour
+HUL,Haas F1 Team,9,Yas Marina,Oasis Glamour
+PER,Red Bull Racing,10,Yas Marina,Oasis Glamour
+LEC,Ferrari,1,Monaco,Ultra-Luxury
+PIA,McLaren,2,Monaco,Ultra-Luxury
+SAI,Ferrari,3,Monaco,Ultra-Luxury
+NOR,McLaren,4,Monaco,Ultra-Luxury
+RUS,Mercedes,5,Monaco,Ultra-Luxury
+VER,Red Bull Racing,6,Monaco,Ultra-Luxury
+HAM,Mercedes,7,Monaco,Ultra-Luxury
+TSU,RB,8,Monaco,Ultra-Luxury
+ALB,Williams,9,Monaco,Ultra-Luxury
+GAS,Alpine,10,Monaco,Ultra-Luxury
+VER,Red Bull Racing,1,Barcelona,Mediterranean Style
+NOR,McLaren,2,Barcelona,Mediterranean Style
+HAM,Mercedes,3,Barcelona,Mediterranean Style
+RUS,Mercedes,4,Barcelona,Mediterranean Style
+LEC,Ferrari,5,Barcelona,Mediterranean Style
+SAI,Ferrari,6,Barcelona,Mediterranean Style
+PIA,McLaren,7,Barcelona,Mediterranean Style
+PER,Red Bull Racing,8,Barcelona,Mediterranean Style
+GAS,Alpine,9,Barcelona,Mediterranean Style
+OCO,Alpine,10,Barcelona,Mediterranean Style
+RUS,Mercedes,1,Spielberg,Alpine Premium
+PIA,McLaren,2,Spielberg,Alpine Premium
+SAI,Ferrari,3,Spielberg,Alpine Premium
+HAM,Mercedes,4,Spielberg,Alpine Premium
+VER,Red Bull Racing,5,Spielberg,Alpine Premium
+HUL,Haas F1 Team,6,Spielberg,Alpine Premium
+PER,Red Bull Racing,7,Spielberg,Alpine Premium
+MAG,Haas F1 Team,8,Spielberg,Alpine Premium
+RIC,RB,9,Spielberg,Alpine Premium
+GAS,Alpine,10,Spielberg,Alpine Premium
+HAM,Mercedes,1,Silverstone,British Racing Green
+VER,Red Bull Racing,2,Silverstone,British Racing Green
+NOR,McLaren,3,Silverstone,British Racing Green
+PIA,McLaren,4,Silverstone,British Racing Green
+SAI,Ferrari,5,Silverstone,British Racing Green
+HUL,Haas F1 Team,6,Silverstone,British Racing Green
+STR,Aston Martin,7,Silverstone,British Racing Green
+ALO,Aston Martin,8,Silverstone,British Racing Green
+ALB,Williams,9,Silverstone,British Racing Green
+TSU,RB,10,Silverstone,British Racing Green
+VER,Red Bull Racing,1,Spa,Forest Heritage
+NOR,McLaren,2,Spa,Forest Heritage
+HAM,Mercedes,3,Spa,Forest Heritage
+RUS,Mercedes,4,Spa,Forest Heritage
+LEC,Ferrari,5,Spa,Forest Heritage
+SAI,Ferrari,6,Spa,Forest Heritage
+PIA,McLaren,7,Spa,Forest Heritage
+PER,Red Bull Racing,8,Spa,Forest Heritage
+GAS,Alpine,9,Spa,Forest Heritage
+OCO,Alpine,10,Spa,Forest Heritage
+PIA,McLaren,1,Budapest,Danube Elegance
+NOR,McLaren,2,Budapest,Danube Elegance
+HAM,Mercedes,3,Budapest,Danube Elegance
+LEC,Ferrari,4,Budapest,Danube Elegance
+VER,Red Bull Racing,5,Budapest,Danube Elegance
+SAI,Ferrari,6,Budapest,Danube Elegance
+PER,Red Bull Racing,7,Budapest,Danube Elegance
+RUS,Mercedes,8,Budapest,Danube Elegance
+TSU,RB,9,Budapest,Danube Elegance
+STR,Aston Martin,10,Budapest,Danube Elegance
+NOR,McLaren,1,Zandvoort,Coastal Casual
+VER,Red Bull Racing,2,Zandvoort,Coastal Casual
+LEC,Ferrari,3,Zandvoort,Coastal Casual
+PIA,McLaren,4,Zandvoort,Coastal Casual
+SAI,Ferrari,5,Zandvoort,Coastal Casual
+PER,Red Bull Racing,6,Zandvoort,Coastal Casual
+RUS,Mercedes,7,Zandvoort,Coastal Casual
+HAM,Mercedes,8,Zandvoort,Coastal Casual
+GAS,Alpine,9,Zandvoort,Coastal Casual
+ALO,Aston Martin,10,Zandvoort,Coastal Casual
+LEC,Ferrari,1,Monza,European Heritage
+PIA,McLaren,2,Monza,European Heritage
+NOR,McLaren,3,Monza,European Heritage
+SAI,Ferrari,4,Monza,European Heritage
+HAM,Mercedes,5,Monza,European Heritage
+VER,Red Bull Racing,6,Monza,European Heritage
+RUS,Mercedes,7,Monza,European Heritage
+PER,Red Bull Racing,8,Monza,European Heritage
+ALB,Williams,9,Monza,European Heritage
+MAG,Haas F1 Team,10,Monza,European Heritage
+VER,Red Bull Racing,1,Imola,Motor Valley Luxury
+NOR,McLaren,2,Imola,Motor Valley Luxury
+LEC,Ferrari,3,Imola,Motor Valley Luxury
+PIA,McLaren,4,Imola,Motor Valley Luxury
+SAI,Ferrari,5,Imola,Motor Valley Luxury
+HAM,Mercedes,6,Imola,Motor Valley Luxury
+RUS,Mercedes,7,Imola,Motor Valley Luxury
+PER,Red Bull Racing,8,Imola,Motor Valley Luxury
+STR,Aston Martin,9,Imola,Motor Valley Luxury
+TSU,RB,10,Imola,Motor Valley Luxury
+NOR,McLaren,1,Miami,High-End Streetwear
+VER,Red Bull Racing,2,Miami,High-End Streetwear
+LEC,Ferrari,3,Miami,High-End Streetwear
+PER,Red Bull Racing,4,Miami,High-End Streetwear
+SAI,Ferrari,5,Miami,High-End Streetwear
+HAM,Mercedes,6,Miami,High-End Streetwear
+TSU,RB,7,Miami,High-End Streetwear
+RUS,Mercedes,8,Miami,High-End Streetwear
+ALO,Aston Martin,9,Miami,High-End Streetwear
+OCO,Alpine,10,Miami,High-End Streetwear
+VER,Red Bull Racing,1,Montreal,Francophone Chic
+NOR,McLaren,2,Montreal,Francophone Chic
+RUS,Mercedes,3,Montreal,Francophone Chic
+HAM,Mercedes,4,Montreal,Francophone Chic
+PIA,McLaren,5,Montreal,Francophone Chic
+ALO,Aston Martin,6,Montreal,Francophone Chic
+STR,Aston Martin,7,Montreal,Francophone Chic
+RIC,RB,8,Montreal,Francophone Chic
+GAS,Alpine,9,Montreal,Francophone Chic
+OCO,Alpine,10,Montreal,Francophone Chic
+LEC,Ferrari,1,Austin,Western Premium
+SAI,Ferrari,2,Austin,Western Premium
+VER,Red Bull Racing,3,Austin,Western Premium
+NOR,McLaren,4,Austin,Western Premium
+PIA,McLaren,5,Austin,Western Premium
+RUS,Mercedes,6,Austin,Western Premium
+PER,Red Bull Racing,7,Austin,Western Premium
+HUL,Haas F1 Team,8,Austin,Western Premium
+LAW,RB,9,Austin,Western Premium
+COL,Williams,10,Austin,Western Premium
+SAI,Ferrari,1,Mexico City,Latam Vibrancy
+NOR,McLaren,2,Mexico City,Latam Vibrancy
+LEC,Ferrari,3,Mexico City,Latam Vibrancy
+HAM,Mercedes,4,Mexico City,Latam Vibrancy
+RUS,Mercedes,5,Mexico City,Latam Vibrancy
+VER,Red Bull Racing,6,Mexico City,Latam Vibrancy
+MAG,Haas F1 Team,7,Mexico City,Latam Vibrancy
+PIA,McLaren,8,Mexico City,Latam Vibrancy
+HUL,Haas F1 Team,9,Mexico City,Latam Vibrancy
+GAS,Alpine,10,Mexico City,Latam Vibrancy
+NOR,McLaren,1,Interlagos,Samba Luxury
+VER,Red Bull Racing,2,Interlagos,Samba Luxury
+LEC,Ferrari,3,Interlagos,Samba Luxury
+PIA,McLaren,4,Interlagos,Samba Luxury
+SAI,Ferrari,5,Interlagos,Samba Luxury
+PER,Red Bull Racing,6,Interlagos,Samba Luxury
+RUS,Mercedes,7,Interlagos,Samba Luxury
+HAM,Mercedes,8,Interlagos,Samba Luxury
+GAS,Alpine,9,Interlagos,Samba Luxury
+ALO,Aston Martin,10,Interlagos,Samba Luxury
+RUS,Mercedes,1,Las Vegas,Premium Entertainment
+HAM,Mercedes,2,Las Vegas,Premium Entertainment
+SAI,Ferrari,3,Las Vegas,Premium Entertainment
+LEC,Ferrari,4,Las Vegas,Premium Entertainment
+VER,Red Bull Racing,5,Las Vegas,Premium Entertainment
+NOR,McLaren,6,Las Vegas,Premium Entertainment
+PIA,McLaren,7,Las Vegas,Premium Entertainment
+HUL,Haas F1 Team,8,Las Vegas,Premium Entertainment
+TSU,RB,9,Las Vegas,Premium Entertainment
+PER,Red Bull Racing,10,Las Vegas,Premium Entertainment
+SAI,Ferrari,1,Melbourne,Pacific Lifestyle
+LEC,Ferrari,2,Melbourne,Pacific Lifestyle
+NOR,McLaren,3,Melbourne,Pacific Lifestyle
+PIA,McLaren,4,Melbourne,Pacific Lifestyle
+PER,Red Bull Racing,5,Melbourne,Pacific Lifestyle
+STR,Aston Martin,6,Melbourne,Pacific Lifestyle
+TSU,RB,7,Melbourne,Pacific Lifestyle
+ALO,Aston Martin,8,Melbourne,Pacific Lifestyle
+HUL,Haas F1 Team,9,Melbourne,Pacific Lifestyle
+MAG,Haas F1 Team,10,Melbourne,Pacific Lifestyle
