@@ -1,0 +1,33 @@
+name: Update F1 Data
+
+on:
+  schedule:
+    # This runs every Monday at 00:00 UTC
+    - cron: '0 0 * * 1'
+  workflow_dispatch: # This allows you to run it manually by clicking a button
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install fastf1 pandas
+
+      - name: Run Ingestion Script
+        run: python src/ingestion/f1_ingest.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/processed/
+          git commit -m "Automated data update" || exit 0
+          git push
