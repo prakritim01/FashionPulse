@@ -203,7 +203,7 @@ sys_navigation = st.sidebar.radio(
 # ENTERPRISE TOP BANNER METRICS
 # ------------------------------------------------------------------------------
 st.title("IntelGrid F1 Enterprise Analytics Suite")
-st.error(f"SYSTEM DEBUG ALARM - Currently using API URL: {API_URL}")
+
 st.markdown("---")
 
 m1, m2, m3, m4 = st.columns(4)
