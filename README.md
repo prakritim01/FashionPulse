@@ -222,6 +222,10 @@ IntelGrid-F1/
 
 #  Installation
 
+Environment Variables
+If you are running the frontend and backend on different servers (like Render), you must set the API_URL environment variable on your dashboard server to point to your FastAPI backend:
+API_URL="https://your-api-url.com/api/v1"
+
 Clone the repository:
 
 ```bash
@@ -249,7 +253,7 @@ uvicorn app.api.main:app --reload
 Run Streamlit dashboard:
 
 ```bash
-streamlit run app/dashboard/streamlit_app.py
+streamlit run app/app.py
 ```
 
 #  Example Use Cases
