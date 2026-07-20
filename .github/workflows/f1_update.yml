@@ -22,7 +22,9 @@ jobs:
         run: pip install fastf1 pandas
 
       - name: Run Ingestion Script
-        run: python src/ingestion/f1_ingest.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        run: python app/ingestion/run_ingestion.py
 
       - name: Commit and push changes
         run: |
